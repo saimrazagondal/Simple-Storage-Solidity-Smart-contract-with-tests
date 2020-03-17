@@ -7,7 +7,7 @@ The samrt contract has 2 functions namely get and set which as the names indicat
 The tests directory contains tests for the SimpleStorage Smart contract. Run these tests before deploying! 
 How to run: "truffle test" command!
 
-###: Dependencies requried:
+### Dependencies requried:
 - npm
 - truffle
 
