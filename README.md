@@ -12,7 +12,7 @@ How to run: "truffle test" command!
 - truffle
 
 ### How to run:
-1: open terminal window and browse to the folder containing this project
-2: Run "truffle test". This should compile contracts and test for errors
-3: Run "truffle develop" to open the truffle console
-4: Run "migrate --reset" inorder to compile and deploy the samrt contract
+- open terminal window and browse to the folder containing this project
+- Run "truffle test". This should compile contracts and test for errors
+- Run "truffle develop" to open the truffle console
+- Run "migrate --reset" inorder to compile and deploy the samrt contract
