@@ -3,7 +3,7 @@
 A storage smart contract written in solidity which is the primary language for developing smart contracts in ethereum.
 The samrt contract has 2 functions namely get and set which as the names indicate, return the value and set the value of a variable.
 
-## tests
+### tests
 The tests directory contains tests for the SimpleStorage Smart contract. Run these tests before deploying! 
 How to run: "truffle test" command!
 
